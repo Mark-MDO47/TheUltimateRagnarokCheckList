@@ -6,3 +6,4 @@ https://nbviewer.jupyter.org/github/Mark-MDO47/TheUltimateRagnarokCheckList/blob
 
 This graphic (not the checklist) came from a How-To-Draw youtube: https://www.youtube.com/watch?v=1ROSr2Ugq-k
 
+![alt text](https://github.com/Mark-MDO47/TheUltimateRagnarokCheckList/blob/master/HowToDraw.png "Fun How-To-Draw Thor")
